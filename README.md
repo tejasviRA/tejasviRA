@@ -3,7 +3,7 @@
 *Home of my experiments and projects!*
 
 🔹Model Training on Colab
-
+🔹DataDupe -> Fake Data using Python's Faker
   
 
 
